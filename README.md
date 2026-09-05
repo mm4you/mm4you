@@ -8,7 +8,7 @@ I enjoy turning ideas into working products and improving the details that make 
 
 ### Achievement
 
-**Semifinalist — DigiPort Logistics Hackathon 2025**  
+**Top 20 (Semifinalist) — DigiPort Logistics Hackathon 2025**  
 Developed a smart port logistics project focused on appointment scheduling and green credits.
 
 ### Selected Projects

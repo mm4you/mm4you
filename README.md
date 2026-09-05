@@ -19,6 +19,10 @@ Developed a smart port logistics project focused on appointment scheduling and g
 | [Drive Music](https://github.com/mm4you/drive-music) | A responsive web music player with FLAC playback, playlists, lock-screen controls, and PWA support. | React, Next.js, Cloudflare Workers & R2 |
 | [IELTS Vocabulary](https://github.com/mm4you/ielts) | An IELTS vocabulary app with spaced repetition, interactive practice games, pronunciation, and progress tracking. | Next.js, Tailwind CSS, Prisma, PostgreSQL |
 
+### Currently Building
+
+**CSVC · In Development**
+
 ### Tools I Work With
 
 **Frontend** — JavaScript, TypeScript, React, Next.js, Tailwind CSS  

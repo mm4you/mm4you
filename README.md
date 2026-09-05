@@ -1,34 +1,39 @@
-# Hi, I'm Nhựt Khang 👋
+# Nhựt Khang
 
-**Web Developer · Student at UMT · Vietnam**
+Web Developer and student at UMT, Vietnam.
 
-I’m a web developer studying at UMT. I build web applications that bring together thoughtful interfaces and practical features — from music players and learning tools to smarter logistics workflows.
+I build web applications with React, Next.js, and TypeScript. I enjoy working on both the interface and the backend, and learning through projects I can use in everyday life.
 
-I enjoy turning ideas into working products and improving the details that make them easier to use. My current focus is React, Next.js, and TypeScript, alongside backend development and database design.
+## Achievement
 
-### Achievement
+**Top 20 (Semifinalist), [Hackathon Digiport Logistics 2025](https://hakathon.umt.edu.vn/)**
 
-**Top 20 (Semifinalist) — [Hackathon Digiport Logistics 2025](https://hakathon.umt.edu.vn/)**  
 Developed a smart port logistics project focused on appointment scheduling and green credits.
 
-### Selected Projects
+## Projects
 
-| Project | What it does | Built with |
+| Project | Description | Technologies |
 | --- | --- | --- |
-| [Hackathon Digiport Logistics 2025](https://github.com/mm4you/hackathon) | Smart port appointment scheduling, operations dashboards, and green credit rewards. | Next.js, TypeScript, Prisma, PostgreSQL |
-| [Drive Music](https://github.com/mm4you/drive-music) | A responsive web music player with FLAC playback, playlists, lock-screen controls, and PWA support. | React, Next.js, Cloudflare Workers & R2 |
-| [IELTS Vocabulary](https://github.com/mm4you/ielts) | An IELTS vocabulary app with spaced repetition, interactive practice games, pronunciation, and progress tracking. | Next.js, Tailwind CSS, Prisma, PostgreSQL |
+| [Hackathon Digiport Logistics 2025](https://github.com/mm4you/hackathon) | A smart port scheduling system with operations dashboards and green credit rewards. | Next.js, TypeScript, Prisma, PostgreSQL |
+| [Drive Music](https://github.com/mm4you/drive-music) | A web music player with FLAC playback, playlists, lock-screen controls, and PWA support. | React, Next.js, Cloudflare Workers, Cloudflare R2 |
+| [IELTS Vocabulary](https://github.com/mm4you/ielts) | An IELTS vocabulary app with spaced repetition, practice games, pronunciation, and progress tracking. | Next.js, Tailwind CSS, Prisma, PostgreSQL |
 
-### Currently Building
+## In Development
 
-**CSVC · In Development**
+### CSVC (Quản lý cơ sở vật chất)
 
-### Tools I Work With
+I am currently working on a web application for facilities management.
 
-**Frontend** — JavaScript, TypeScript, React, Next.js, Tailwind CSS  
-**Backend & Data** — Prisma, PostgreSQL, MySQL  
-**Workflow** — Git, GitHub, Cloudflare
+## Technologies
 
-### Connect
+**Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS
 
-[Email](mailto:ungnhutkhang53@gmail.com) · [Facebook](https://www.facebook.com/agug103) · [Instagram](https://www.instagram.com/kh4ng.u)
+**Backend and databases:** Prisma, PostgreSQL, MySQL
+
+**Tools:** Git, GitHub, Cloudflare
+
+## Contact
+
+- [Email](mailto:ungnhutkhang53@gmail.com)
+- [Facebook](https://www.facebook.com/agug103)
+- [Instagram](https://www.instagram.com/kh4ng.u)

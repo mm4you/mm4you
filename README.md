@@ -8,14 +8,14 @@ I enjoy turning ideas into working products and improving the details that make 
 
 ### Achievement
 
-**Top 20 (Semifinalist) — DigiPort Logistics Hackathon 2025**  
+**Top 20 (Semifinalist) — [Hackathon Digiport Logistics 2025](https://hakathon.umt.edu.vn/)**  
 Developed a smart port logistics project focused on appointment scheduling and green credits.
 
 ### Selected Projects
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [DigiPort Logistics Hackathon](https://github.com/mm4you/hackathon) | Smart port appointment scheduling, operations dashboards, and green credit rewards. | Next.js, TypeScript, Prisma, PostgreSQL |
+| [Hackathon Digiport Logistics 2025](https://github.com/mm4you/hackathon) | Smart port appointment scheduling, operations dashboards, and green credit rewards. | Next.js, TypeScript, Prisma, PostgreSQL |
 | [Drive Music](https://github.com/mm4you/drive-music) | A responsive web music player with FLAC playback, playlists, lock-screen controls, and PWA support. | React, Next.js, Cloudflare Workers & R2 |
 | [IELTS Vocabulary](https://github.com/mm4you/ielts) | An IELTS vocabulary app with spaced repetition, interactive practice games, pronunciation, and progress tracking. | Next.js, Tailwind CSS, Prisma, PostgreSQL |
 
